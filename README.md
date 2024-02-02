@@ -1,8 +1,5 @@
-- 👋 Salut, je suis @nayren23
--Enthousiaste des nouveautés High Tech 🚀💻 
--J'aime pratiquer la musculation en salle de sport 🏋️
--Je peux vous parler pendant des heures de la série animée "L'attaque des titans" ⚔️ 🕊️
--Actuellement en quête du rang "Global Elite" (pour les connaisseurs 😉)
+ Salut 🫡, je suis @nayren23, un Apprenti Développeur Junior et Technicien en systèmes et réseaux passionné par les technologies de pointe 🚀💻.
+-Adepte de la musculation en salle de sport 🏋️ et amateur d'escalade 🧗, je trouve l'équilibre entre la puissance de la technologie et la force physique. 
 
 <!---
 nayren23/nayren23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
