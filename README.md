@@ -19,24 +19,24 @@ An avid gym weightlifter 🏋️ and climbing enthusiast 🧗, I find the balanc
   <tr>
       <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
       </a>
       <br>Python
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
       <br>Php
     </td>
             <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=c" alt="c" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
       <br>Javascript
     </td>
         <td align="center"  width="96">
@@ -52,37 +52,37 @@ An avid gym weightlifter 🏋️ and climbing enthusiast 🧗, I find the balanc
       <br>JQuery
     </td>
         <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="65" height="65" />
       <br>TS
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="ASP.NET Core" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
       <br>Android Studio
     </td>
   </tr>
   <tr>
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65" />
       <br>MySQL
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="sqlite" />
       <br>Sqlite
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>Mongodb
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="github actions" />
       <br>Github Actions
     </td>
         <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="docker API" />
       <br>Docker
     </td>
     <td align="center" width="96">
@@ -104,11 +104,11 @@ An avid gym weightlifter 🏋️ and climbing enthusiast 🧗, I find the balanc
     </tr>
     <tr>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="symfony" />
       <br>Symfony
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
       <br>Angular
     </td>
         <td align="center"  width="96">
@@ -116,11 +116,11 @@ An avid gym weightlifter 🏋️ and climbing enthusiast 🧗, I find the balanc
       <br>Bootstrap
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
       <br>Flask
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="svelte" />
       <br>Svelte
     </td>
         <td align="center" width="96">
@@ -128,11 +128,11 @@ An avid gym weightlifter 🏋️ and climbing enthusiast 🧗, I find the balanc
           <br>Restapi
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=codepen" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=codepen" width="48" height="48" alt="codepen" />
       <br>Codepen
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="50" height="50" />
       <br>Nginx
     </td>
         <td align="center" width="96">
@@ -140,7 +140,7 @@ An avid gym weightlifter 🏋️ and climbing enthusiast 🧗, I find the balanc
       <br>Redis
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
       <br>GCP
     </td>
 
@@ -150,40 +150,40 @@ An avid gym weightlifter 🏋️ and climbing enthusiast 🧗, I find the balanc
       <br>Linux
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="windows" />
       <br>Windows
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="discord" />
       <br>Discord
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="eclipse" />
       <br>Eclipse
     </td>
           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
       <br>Vscode
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="idea" />
       <br>IntelliJ
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="pytest" />
       <br>Pytest
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="md" />
       <br>Md
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" width="40" height="40" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=stackoverflow" width="40" height="40" alt="stackoverflow" />
       <br>Stack overflow
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bientot" width="48" height="48" alt="dart" />
-    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
+        <br>Spring
   </tr>
   <tr>
  <tr>
