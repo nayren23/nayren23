@@ -1,7 +1,7 @@
 <h1 align='center' > Hello 👋 I'm Nayren 👨‍💻</h1>
 
 <p align='center'>
-  Apprentice Junior Developer and Systems and Network Technician
+  Apprentice Network and Security Engineer
 </p>
 
 <p align="justify">
